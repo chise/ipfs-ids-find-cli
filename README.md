@@ -17,3 +17,7 @@ ipfs-ids-find 金土日
 
 ipfs-ids-find 水 木 金
 ```
+
+### Notice
+
+You must run IPFS daemon of [Kubo](https://github.com/ipfs/kubo) before using this module.
