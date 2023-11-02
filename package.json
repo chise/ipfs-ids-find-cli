@@ -1,0 +1,29 @@
+{
+  "name": "ipfs-ids-find-cli",
+  "version": "1.0.0",
+  "description": "CLI for ipfs-ids-find",
+  "main": "index.js",
+  "bin": {
+    "ipfs-ids-find": "bin/ipfs-ids-find.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IPFS",
+    "CHISE",
+    "Chinese characters",
+    "Hanzi",
+    "Kanji",
+    "Hanzi structure",
+    "Ideographic Description Sequence",
+    "IDS",
+    "CLI"
+  ],
+  "author": "MORIOKA Tomohiko",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs-ids-find": "^1.0.0"
+  }
+}
