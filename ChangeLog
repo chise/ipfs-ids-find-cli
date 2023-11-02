@@ -1,0 +1,19 @@
+2023-11-02  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* package.json (version): Update to 1.0.1.
+
+	* README.md: Add Notice.
+
+2023-11-02  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* README.md: Add description about "Installation" and "Usage".
+
+	* package.json: New file.
+
+	* bin/ipfs-ids-find.js: New file.
+
+2023-11-02  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* LICENSE: Initial commit
+
+	* README.md: Initial commit
