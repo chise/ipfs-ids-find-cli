@@ -1,6 +1,6 @@
 {
   "name": "ipfs-ids-find-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI for ipfs-ids-find",
   "main": "index.js",
   "bin": {
